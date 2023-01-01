@@ -1,9 +1,5 @@
 # CIS*3760 G103 Course Scheduler Sprint-9
 
-[**Presentation Slides UPDATE**]()
-
-[**Website**](https://34.130.11.106/)
-
 ## Running Docker Locally
 
 **Prereq: Install Docker**
